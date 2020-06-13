@@ -18,7 +18,7 @@ HTML 是由[伯纳斯-李](https://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B
 - 网页作为一个标签页显示出来的名字等等。
 
 在 VS CODE 里面，我们只需要`! + tab`便可以获得以上的基本格式，不需要自己动手去敲。
-![VS CODE界面]](https://i.loli.net/2020/06/13/hwQsMSKydIFt54f.png)
+![VS CODE界面](https://i.loli.net/2020/06/13/hwQsMSKydIFt54f.png)
 
 ## 常用的表章节的标签
 
